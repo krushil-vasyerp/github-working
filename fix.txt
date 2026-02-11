@@ -4,4 +4,6 @@ fixed more bugs
 
 one more bug ditected and fixed
 
+two more bugs detected and fixed
+
 fixed all bugs
