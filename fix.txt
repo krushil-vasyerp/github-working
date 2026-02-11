@@ -3,3 +3,5 @@ i am working on bug fix branch in fix file
 fixed more bugs
 
 one more bug ditected and fixed
+
+fixed all bugs
